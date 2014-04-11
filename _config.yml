@@ -103,4 +103,8 @@ stylus:
 deploy:
   type: github
   repository: https://github.com/yinlianhua/DespicableMe.github.io.git
+<<<<<<< HEAD
   branch: gh-pages
+=======
+  branch: gh-pages
+>>>>>>> 6cd92eabd82c15142979d5c52a434dc313ac3667
