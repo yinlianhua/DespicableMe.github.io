@@ -102,5 +102,5 @@ stylus:
 ## Docs: http://zespia.tw/hexo/docs/deployment.html
 deploy:
   type: github
-  repository: https://github.com/yinlianhua/DespicableMe.github.io.git
+  repository: https://github.com/yinlianhua/DespicableMe.github.io
   branch: master
